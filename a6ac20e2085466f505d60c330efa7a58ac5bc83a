@@ -16,6 +16,24 @@
       "message": "Add Darwin binary as well.",
       "revId": "a6ac20e2085466f505d60c330efa7a58ac5bc83a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e4d5f12b_45fbdf58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2023-11-04T20:22:35Z",
+      "side": 1,
+      "message": "We haven\u0027t supported darwin builds for a while, maybe it\u0027s time to kill the prebuilts as well",
+      "parentUuid": "913f6b7c_031eba88",
+      "revId": "a6ac20e2085466f505d60c330efa7a58ac5bc83a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
