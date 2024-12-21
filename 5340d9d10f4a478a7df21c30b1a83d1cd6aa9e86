@@ -16,6 +16,23 @@
       "message": "This fixes MotCamera4.apk patches on rtwo, dubai and tundra",
       "revId": "5340d9d10f4a478a7df21c30b1a83d1cd6aa9e86",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bdb5cdc3_018b0017",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33800
+      },
+      "writtenOn": "2024-12-21T17:08:44Z",
+      "side": 1,
+      "message": "Fixes patched APKs files, it had incorrect header size\n\nBtw, this issue in v2.9.2 and v2.10.0 too, but not in v2.9.3.\nI think that v2.9.3 is the most stable apktool version for now.",
+      "revId": "5340d9d10f4a478a7df21c30b1a83d1cd6aa9e86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
