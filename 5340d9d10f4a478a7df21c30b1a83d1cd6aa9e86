@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d2162cc_b844de26",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2024-12-21T15:54:46Z",
+      "side": 1,
+      "message": "This fixes MotCamera4.apk patches on rtwo, dubai and tundra",
+      "revId": "5340d9d10f4a478a7df21c30b1a83d1cd6aa9e86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
