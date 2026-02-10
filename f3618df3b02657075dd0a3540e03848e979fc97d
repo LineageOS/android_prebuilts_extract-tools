@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e442c061_39454e23",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-10T06:25:49Z",
+      "side": 1,
+      "message": "Harmless to pull back, LGE 8996\u0027s libs HATE 0.9, so at least let it boot on 21.",
+      "revId": "f3618df3b02657075dd0a3540e03848e979fc97d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
