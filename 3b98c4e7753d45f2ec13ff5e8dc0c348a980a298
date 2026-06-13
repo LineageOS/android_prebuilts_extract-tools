@@ -16,6 +16,24 @@
       "message": "unless this fixes something relevant to us, I\u0027d rather not risk forcing shasum update for everyone with pinned and patched apks.",
       "revId": "3b98c4e7753d45f2ec13ff5e8dc0c348a980a298",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "adc09020_4e8d7c61",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33800
+      },
+      "writtenOn": "2026-06-13T21:33:19Z",
+      "side": 1,
+      "message": "My apktool package (v3.0.2) installed on my system unpacks a different AndroidManifest.xml and patches from new apktool version are failing to be applied on old apktool version.\n\nThat\u0027s all, maybe isn\u0027t really worth to update apktool.",
+      "parentUuid": "4ff20185_e0a6d7b6",
+      "revId": "3b98c4e7753d45f2ec13ff5e8dc0c348a980a298",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
