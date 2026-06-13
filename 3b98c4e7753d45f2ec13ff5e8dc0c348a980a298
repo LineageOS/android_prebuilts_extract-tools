@@ -34,6 +34,24 @@
       "parentUuid": "4ff20185_e0a6d7b6",
       "revId": "3b98c4e7753d45f2ec13ff5e8dc0c348a980a298",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3d95295_f87ec938",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33800
+      },
+      "writtenOn": "2026-06-13T21:34:09Z",
+      "side": 1,
+      "message": "I think we should leave this commit until better times",
+      "parentUuid": "adc09020_4e8d7c61",
+      "revId": "3b98c4e7753d45f2ec13ff5e8dc0c348a980a298",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
